@@ -32,7 +32,7 @@ string beast (int n)
   int t = n-10;
   for (int i = 1; i <= t; i++)
     answer.push_back('5');
-  for (int i = 1; i <= 5; i++)
+  for (int i = 1; i <= 10; i++)
     answer.push_back('3');
   return answer;
   
