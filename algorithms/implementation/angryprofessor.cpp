@@ -9,7 +9,7 @@ int main()
   cin >> t;
   while (t--)
     {
-      cout << t <<"\n";
+     
       int n, k, count = 0, a;
       cin >> n >> k;
       for (int i = 1; i <= n; i++)
