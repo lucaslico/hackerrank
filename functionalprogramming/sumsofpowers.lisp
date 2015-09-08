@@ -9,3 +9,4 @@
   (let*((x (parse-integer(read-line)))
 	(n (parse-integer(read-line))))
     (format t "~A~%" (numberpowers x n 1))))
+(main)
