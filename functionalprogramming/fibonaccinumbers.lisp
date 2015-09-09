@@ -6,3 +6,5 @@
 (defun main()
   (let* ((n (read)))
   (format t "~A~%"(fibonacci n))))
+
+(main)
